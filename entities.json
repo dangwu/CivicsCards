@@ -46,37 +46,6 @@
             [
                 "Richard Shelby",
                 "Tommy Tuberville,"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District 1",
-                    "representative": "Jerry L. Carl"
-                },
-                {
-                    "name": "District 2",
-                    "representative": "Barry Moore"
-                },
-                {
-                    "name": "District 3",
-                    "representative": "Mike Rogers"
-                },
-                {
-                    "name": "District 4",
-                    "representative": "Robert Aderholt"
-                },
-                {
-                    "name": "District 5",
-                    "representative": "Mo Brooks"
-                },
-                {
-                    "name": "District 6",
-                    "representative": "Gary Palmer"
-                },
-                {
-                    "name": "District 7",
-                    "representative": "Teri A. Sewell"
-                }
             ]
         },
         {
@@ -87,27 +56,13 @@
             [
                 "Lisa Murkowski",
                 "Dan Sullivan"
-            ],
-            "districts":
-            [
-                {
-                    "name": "At Large",
-                    "representative": "Don Young"
-                }
             ]
         },
         {
             "name": "American Samoa",
             "capital": "Pago Pago",
             "governor": "Lemanu Peleti Mauga",
-            "senators": [],
-            "districts":
-            [
-                {
-                    "name": "At Large",
-                    "representative": "Aumua Amata Coleman Radewagen"
-                }
-            ]
+            "senators": []
         },
         {
             "name": "Arizona",
@@ -117,45 +72,6 @@
             [
                 "Kyrsten Sinema",
                 "Mark Kelly "
-            ],
-            "districts":
-            [
-                {
-                    "name": "District 1",
-                    "representative": "Tom O'Halleran"
-                },
-                {
-                    "name": "District 2",
-                    "representative": "Ann Kirkpatrick"
-                },
-                {
-                    "name": "District 3",
-                    "representative": "Raul Grijalva"
-                },
-                {
-                    "name": "District 4",
-                    "representative": "Paul A. Gosar"
-                },
-                {
-                    "name": "District 5",
-                    "representative": "Andy Biggs"
-                },
-                {
-                    "name": "District 6",
-                    "representative": "David Schweikert"
-                },
-                {
-                    "name": "District 7",
-                    "representative": "Ruben Gallego"
-                },
-                {
-                    "name": "District 8",
-                    "representative": "Debbie Lesko"
-                },
-                {
-                    "name": "District 9",
-                    "representative": "Greg Stanton"
-                }
             ]
         },
         {
@@ -166,21 +82,6 @@
             [
                 "John Boozman",
                 "Tom Cotton"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District 1",
-                    "representative": "Rick Crawford"
-                },
-                {
-                    "name": "District 2",
-                    "representative": "French Hill"
-                },
-                {
-                    "name": "District 3",
-                    "representative": "Steve Womack"
-                }
             ]
         },
         {
@@ -191,113 +92,6 @@
             [
                 "Dianne Feinstein",
                 "Alex Padilla"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District 1",
-                    "representative": "LaMalfa Doug"
-                },
-                {
-                    "name": "District 2",
-                    "representative": "Jared Huffman"
-                },
-                {
-                    "name": "District 3",
-                    "representative": "John Garamendi"
-                },
-                {
-                    "name": "District 4",
-                    "representative": "Tom McClintock"
-                },
-                {
-                    "name": "District 5",
-                    "representative": "Mike Thompson"
-                },
-                {
-                    "name": "District 6",
-                    "representative": "Doris O. Matsui"
-                },
-                {
-                    "name": "District 7",
-                    "representative": "Ami Bera"
-                },
-                {
-                    "name": "District 8",
-                    "representative": "Jay Obernolte"
-                },
-                {
-                    "name": "District 9",
-                    "representative": "Jerry McNerney"
-                },
-                {
-                    "name": "District 10",
-                    "representative": "Josh Harder"
-                },
-                {
-                    "name": "District 11",
-                    "representative": "Mark DeSaulnier"
-                },
-                {
-                    "name": "District 12",
-                    "representative": "Nancy Pelosi"
-                },
-                {
-                    "name": "District 13",
-                    "representative": "Barbara Lee"
-                },
-                {
-                    "name": "District 14",
-                    "representative": "Jackie Speier"
-                },
-                {
-                    "name": "District 15",
-                    "representative": "Eric Swalwell"
-                },
-                {
-                    "name": "District 16",
-                    "representative": "Jim Costa"
-                },
-                {
-                    "name": "District 17",
-                    "representative": "Ro Khanna"
-                },
-                {
-                    "name": "District 18",
-                    "representative": "Anna G. Eshoo"
-                },
-                {
-                    "name": "District 19",
-                    "representative": "Zoe Lofgren"
-                },
-                {
-                    "name": "District 20",
-                    "representative": "Jimmy Panetta"
-                },
-                {
-                    "name": "District 21",
-                    "representative": "David G. Valadao"
-                },
-                {
-                    "name": "District 22",
-                    "representative": "Devin Nunes"
-                },
-                {
-                    "name": "District 23",
-                    "representative": "Kevin McCarthy"
-                },
-                {
-                    "name": "District 24",
-                    "representative": "Salud Carbajal"
-                },
-                {
-                    "name": "District 25",
-                    "representative": "Mike Garcial"
-                },
-                {
-                    "name": "District 26",
-                    "representative": "Julia Brownley"
-                }
             ]
         },
         {
@@ -308,13 +102,6 @@
             [
                 "Michael Bennet",
                 "John Hickenlooper"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -325,13 +112,6 @@
             [
                 "Richard Blumenthal",
                 "Chris Murphy"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -342,13 +122,6 @@
             [
                 "Tom Carper",
                 "Chris Coons"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -359,13 +132,6 @@
             [
                 "Marco Rubio",
                 "Rick Scott"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -376,13 +142,6 @@
             [
                 "Jon Ossoff",
                 "Raphael Warnock"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -393,13 +152,6 @@
             [
                 "",
                 ""
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -410,13 +162,6 @@
             [
                 "Brian Schatz",
                 "Mazie Hirono"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -427,13 +172,6 @@
             [
                 "Mike Crapo",
                 "Jim Risch"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -444,13 +182,6 @@
             [
                 "Dick Durbin",
                 "Tammy Duckworth"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -461,13 +192,6 @@
             [
                 "Todd Young",
                 "Mike Braun"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -478,13 +202,6 @@
             [
                 "Chuck Grassley",
                 "Joni Ernst"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -495,13 +212,6 @@
             [
                 "Jerry Moran",
                 "Roger Marshall"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -512,13 +222,6 @@
             [
                 "Mitch McConnell",
                 "Rand Paul"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -529,13 +232,6 @@
             [
                 "Bill Cassidy",
                 "John Kennedy"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -546,13 +242,6 @@
             [
                 "Susan Collins",
                 "Angus King"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -563,13 +252,6 @@
             [
                 "Ben Cardin",
                 "Chris Van Hollen"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -580,13 +262,6 @@
             [
                 "Elizabeth Warren",
                 "Ed Markey"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -597,13 +272,6 @@
             [
                 "Debbie Stabenow",
                 "Gary Peters"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -614,13 +282,6 @@
             [
                 "Amy Klobuchar",
                 "Tina Smith"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -631,13 +292,6 @@
             [
                 "Roger Wicker",
                 "Cindy Hyde-Smith"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -648,13 +302,6 @@
             [
                 "Roy Blunt",
                 "Josh Hawley"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -665,13 +312,6 @@
             [
                 "Jon Tester",
                 "Steve Daines"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -682,13 +322,6 @@
             [
                 "Deb Fischer",
                 "Ben Sasse"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -699,13 +332,6 @@
             [
                 "Catherine Cortez Masto",
                 "Jacky Rosen"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -716,13 +342,6 @@
             [
                 "Jeanne Shaheen",
                 "Maggie Hassan"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -733,13 +352,6 @@
             [
                 "Bob Menendez",
                 "Cory Booker"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -750,13 +362,6 @@
             [
                 "Martin Heinrich",
                 "Ben Ray Luján"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -767,13 +372,6 @@
             [
                 "Chuck Schumer",
                 "Kirsten Gillibrand"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -784,13 +382,6 @@
             [
                 "Richard Burr",
                 "Thom Tillis"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -801,13 +392,6 @@
             [
                 "John Hoeven",
                 "Kevin Cramer"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -818,13 +402,6 @@
             [
                 "",
                 ""
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -835,13 +412,6 @@
             [
                 "Sherrod Brown",
                 "Rob Portman"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -852,13 +422,6 @@
             [
                 "Jim Inhofe",
                 "James Lankford"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -869,13 +432,6 @@
             [
                 "Ron Wyden",
                 "Jeff Merkley"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -886,13 +442,6 @@
             [
                 "Bob Casey Jr.",
                 "Pat Toomey"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -903,13 +452,6 @@
             [
                 "",
                 ""
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -920,13 +462,6 @@
             [
                 "Jack Reed",
                 "Sheldon Whitehouse"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -937,13 +472,6 @@
             [
                 "Lindsey Graham",
                 "Tim Scott"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -954,13 +482,6 @@
             [
                 "John Thune",
                 "Mike Rounds"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -971,13 +492,6 @@
             [
                 "Marsha Blackburn",
                 "Bill Hagerty"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -988,13 +502,6 @@
             [
                 "John Cornyn",
                 "Ted Cruz"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1005,13 +512,6 @@
             [
                 "Mike Lee",
                 "Mitt Romney"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1022,13 +522,6 @@
             [
                 "",
                 ""
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1039,13 +532,6 @@
             [
                 "Patrick Leahy",
                 "Bernie Sanders"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1056,13 +542,6 @@
             [
                 "Mark Warner",
                 "Tim Kaine"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1073,13 +552,6 @@
             [
                 "Patty Murray",
                 "Maria Cantwell"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1090,13 +562,6 @@
             [
                 "Joe Manchin",
                 "Shelley Moore Capito"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1107,13 +572,6 @@
             [
                 "Ron Johnson",
                 "Tammy Baldwin"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         },
         {
@@ -1124,13 +582,6 @@
             [
                 "John Barrasso",
                 "Cynthia Lummis"
-            ],
-            "districts":
-            [
-                {
-                    "name": "District",
-                    "representative": ""
-                }
             ]
         }
     ]
