@@ -1,0 +1,1137 @@
+{
+    "president":
+    {
+        "names":
+        [
+            "Joseph R. Biden, Jr.",
+            "Joe Biden",
+            "Biden"
+        ],
+        "party": "Democratic"
+    },
+    "vice_president":
+    {
+        "names":
+        [
+            "Kamala D. Harris",
+            "Kamala Harris",
+            "Harris"
+        ],
+        "party": "Democratic"
+    },
+    "speaker_of_the_house":
+    {
+        "names":
+        [
+            "Nancy Pelosi",
+            "Pelosi"
+        ],
+        "party": "Democratic"
+    },
+    "chief_justice":
+    {
+        "names":
+        [
+            "John G. Roberts, Jr"
+        ],
+        "party": ""
+    },
+    "areas":
+    [
+        {
+            "name": "Alabama",
+            "capital": "Montgomery",
+            "governor": "Kay Ivey",
+            "senators":
+            [
+                "Richard Shelby",
+                "Tommy Tuberville,"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District 1",
+                    "representative": "Jerry L. Carl"
+                },
+                {
+                    "name": "District 2",
+                    "representative": "Barry Moore"
+                },
+                {
+                    "name": "District 3",
+                    "representative": "Mike Rogers"
+                },
+                {
+                    "name": "District 4",
+                    "representative": "Robert Aderholt"
+                },
+                {
+                    "name": "District 5",
+                    "representative": "Mo Brooks"
+                },
+                {
+                    "name": "District 6",
+                    "representative": "Gary Palmer"
+                },
+                {
+                    "name": "District 7",
+                    "representative": "Teri A. Sewell"
+                }
+            ]
+        },
+        {
+            "name": "Alaska",
+            "capital": "Juneau",
+            "governor": "Mike Dunleavy",
+            "senators":
+            [
+                "Lisa Murkowski",
+                "Dan Sullivan"
+            ],
+            "districts":
+            [
+                {
+                    "name": "At Large",
+                    "representative": "Don Young"
+                }
+            ]
+        },
+        {
+            "name": "American Samoa",
+            "capital": "Pago Pago",
+            "governor": "Lemanu Peleti Mauga",
+            "senators": [],
+            "districts":
+            [
+                {
+                    "name": "At Large",
+                    "representative": "Aumua Amata Coleman Radewagen"
+                }
+            ]
+        },
+        {
+            "name": "Arizona",
+            "capital": "Phoenix",
+            "governor": "Doug Ducey",
+            "senators":
+            [
+                "Kyrsten Sinema",
+                "Mark Kelly "
+            ],
+            "districts":
+            [
+                {
+                    "name": "District 1",
+                    "representative": "Tom O'Halleran"
+                },
+                {
+                    "name": "District 2",
+                    "representative": "Ann Kirkpatrick"
+                },
+                {
+                    "name": "District 3",
+                    "representative": "Raul Grijalva"
+                },
+                {
+                    "name": "District 4",
+                    "representative": "Paul A. Gosar"
+                },
+                {
+                    "name": "District 5",
+                    "representative": "Andy Biggs"
+                },
+                {
+                    "name": "District 6",
+                    "representative": "David Schweikert"
+                },
+                {
+                    "name": "District 7",
+                    "representative": "Ruben Gallego"
+                },
+                {
+                    "name": "District 8",
+                    "representative": "Debbie Lesko"
+                },
+                {
+                    "name": "District 9",
+                    "representative": "Greg Stanton"
+                }
+            ]
+        },
+        {
+            "name": "Arkansas",
+            "capital": "Little Rock",
+            "governor": "Asa Hutchinson",
+            "senators":
+            [
+                "John Boozman",
+                "Tom Cotton"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District 1",
+                    "representative": "Rick Crawford"
+                },
+                {
+                    "name": "District 2",
+                    "representative": "French Hill"
+                },
+                {
+                    "name": "District 3",
+                    "representative": "Steve Womack"
+                }
+            ]
+        },
+        {
+            "name": "California",
+            "capital": "Sacramento",
+            "governor": "Gavin Newsom",
+            "senators":
+            [
+                "Dianne Feinstein",
+                "Alex Padilla"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District 1",
+                    "representative": "LaMalfa Doug"
+                },
+                {
+                    "name": "District 2",
+                    "representative": "Jared Huffman"
+                },
+                {
+                    "name": "District 3",
+                    "representative": "John Garamendi"
+                },
+                {
+                    "name": "District 4",
+                    "representative": "Tom McClintock"
+                },
+                {
+                    "name": "District 5",
+                    "representative": "Mike Thompson"
+                },
+                {
+                    "name": "District 6",
+                    "representative": "Doris O. Matsui"
+                },
+                {
+                    "name": "District 7",
+                    "representative": "Ami Bera"
+                },
+                {
+                    "name": "District 8",
+                    "representative": "Jay Obernolte"
+                },
+                {
+                    "name": "District 9",
+                    "representative": "Jerry McNerney"
+                },
+                {
+                    "name": "District 10",
+                    "representative": "Josh Harder"
+                },
+                {
+                    "name": "District 11",
+                    "representative": "Mark DeSaulnier"
+                },
+                {
+                    "name": "District 12",
+                    "representative": "Nancy Pelosi"
+                },
+                {
+                    "name": "District 13",
+                    "representative": "Barbara Lee"
+                },
+                {
+                    "name": "District 14",
+                    "representative": "Jackie Speier"
+                },
+                {
+                    "name": "District 15",
+                    "representative": "Eric Swalwell"
+                },
+                {
+                    "name": "District 16",
+                    "representative": "Jim Costa"
+                },
+                {
+                    "name": "District 17",
+                    "representative": "Ro Khanna"
+                },
+                {
+                    "name": "District 18",
+                    "representative": "Anna G. Eshoo"
+                },
+                {
+                    "name": "District 19",
+                    "representative": "Zoe Lofgren"
+                },
+                {
+                    "name": "District 20",
+                    "representative": "Jimmy Panetta"
+                },
+                {
+                    "name": "District 21",
+                    "representative": "David G. Valadao"
+                },
+                {
+                    "name": "District 22",
+                    "representative": "Devin Nunes"
+                },
+                {
+                    "name": "District 23",
+                    "representative": "Kevin McCarthy"
+                },
+                {
+                    "name": "District 24",
+                    "representative": "Salud Carbajal"
+                },
+                {
+                    "name": "District 25",
+                    "representative": "Mike Garcial"
+                },
+                {
+                    "name": "District 26",
+                    "representative": "Julia Brownley"
+                }
+            ]
+        },
+        {
+            "name": "Colorado",
+            "capital": "Denver",
+            "governor": "Jared Polis",
+            "senators":
+            [
+                "Michael Bennet",
+                "John Hickenlooper"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Connecticut",
+            "capital": "Hartford",
+            "governor": "Ned Lamont",
+            "senators":
+            [
+                "Richard Blumenthal",
+                "Chris Murphy"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Delaware",
+            "capital": "Dover",
+            "governor": "John Carney",
+            "senators":
+            [
+                "Tom Carper",
+                "Chris Coons"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Florida",
+            "capital": "Tallahassee",
+            "governor": "Ron DeSantis",
+            "senators":
+            [
+                "Marco Rubio",
+                "Rick Scott"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Georgia",
+            "capital": "Atlanta",
+            "governor": "Brian Kemp",
+            "senators":
+            [
+                "Jon Ossoff",
+                "Raphael Warnock"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Guam",
+            "capital": "Hagåtña",
+            "governor": "Lou Leon Guerrero",
+            "senators":
+            [
+                "",
+                ""
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Hawaii",
+            "capital": "Honolulu",
+            "governor": "David Ige",
+            "senators":
+            [
+                "Brian Schatz",
+                "Mazie Hirono"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Idaho",
+            "capital": "Boise",
+            "governor": "Brad Little",
+            "senators":
+            [
+                "Mike Crapo",
+                "Jim Risch"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Illinois",
+            "capital": "Springfield",
+            "governor": "J. B. Pritzker",
+            "senators":
+            [
+                "Dick Durbin",
+                "Tammy Duckworth"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Indiana",
+            "capital": "Indianapolis",
+            "governor": "Eric Holcomb",
+            "senators":
+            [
+                "Todd Young",
+                "Mike Braun"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Iowa",
+            "capital": "Des Moines",
+            "governor": "Kim Reynolds",
+            "senators":
+            [
+                "Chuck Grassley",
+                "Joni Ernst"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Kansas",
+            "capital": "Topeka",
+            "governor": "Laura Kelly",
+            "senators":
+            [
+                "Jerry Moran",
+                "Roger Marshall"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Kentucky",
+            "capital": "Frankfort",
+            "governor": "Andy Beshear",
+            "senators":
+            [
+                "Mitch McConnell",
+                "Rand Paul"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Louisiana",
+            "capital": "Baton Rouge",
+            "governor": "John Bel Edwards",
+            "senators":
+            [
+                "Bill Cassidy",
+                "John Kennedy"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Maine",
+            "capital": "Augusta",
+            "governor": "Janet Mills",
+            "senators":
+            [
+                "Susan Collins",
+                "Angus King"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Maryland",
+            "capital": "Annapolis",
+            "governor": "Larry Hogan",
+            "senators":
+            [
+                "Ben Cardin",
+                "Chris Van Hollen"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Massachusetts",
+            "capital": "Boston",
+            "governor": "Charlie Baker",
+            "senators":
+            [
+                "Elizabeth Warren",
+                "Ed Markey"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Michigan",
+            "capital": "Lansing",
+            "governor": "Gretchen Whitmer",
+            "senators":
+            [
+                "Debbie Stabenow",
+                "Gary Peters"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Minnesota",
+            "capital": "Saint Paul",
+            "governor": "Tim Walz",
+            "senators":
+            [
+                "Amy Klobuchar",
+                "Tina Smith"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Mississippi",
+            "capital": "Jackson",
+            "governor": "Tate Reeves",
+            "senators":
+            [
+                "Roger Wicker",
+                "Cindy Hyde-Smith"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Missouri",
+            "capital": "Jefferson City",
+            "governor": "Mike Parson",
+            "senators":
+            [
+                "Roy Blunt",
+                "Josh Hawley"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Montana",
+            "capital": "Helena",
+            "governor": "Greg Gianforte",
+            "senators":
+            [
+                "Jon Tester",
+                "Steve Daines"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Nebraska",
+            "capital": "Lincoln",
+            "governor": "Pete Ricketts",
+            "senators":
+            [
+                "Deb Fischer",
+                "Ben Sasse"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Nevada",
+            "capital": "    Carson City",
+            "governor": "Steve Sisolak",
+            "senators":
+            [
+                "Catherine Cortez Masto",
+                "Jacky Rosen"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "New Hampshire",
+            "capital": "Concord",
+            "governor": "Chris Sununu",
+            "senators":
+            [
+                "Jeanne Shaheen",
+                "Maggie Hassan"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "New Jersey",
+            "capital": "Trenton",
+            "governor": "Phil Murphy",
+            "senators":
+            [
+                "Bob Menendez",
+                "Cory Booker"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "New Mexico",
+            "capital": "Santa Fe",
+            "governor": "Michelle Lujan Grisham",
+            "senators":
+            [
+                "Martin Heinrich",
+                "Ben Ray Luján"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "New York",
+            "capital": "Albany",
+            "governor": "Kathy Hochul",
+            "senators":
+            [
+                "Chuck Schumer",
+                "Kirsten Gillibrand"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "North Carolina",
+            "capital": "Raleigh",
+            "governor": "Roy Cooper",
+            "senators":
+            [
+                "Richard Burr",
+                "Thom Tillis"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "North Dakota",
+            "capital": "Bismarck",
+            "governor": "Doug Burgum",
+            "senators":
+            [
+                "John Hoeven",
+                "Kevin Cramer"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "capital": "Saipan",
+            "governor": "Ralph Torres",
+            "senators":
+            [
+                "",
+                ""
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Ohio",
+            "capital": "Columbus",
+            "governor": "Mike DeWine",
+            "senators":
+            [
+                "Sherrod Brown",
+                "Rob Portman"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Oklahoma",
+            "capital": "Oklahoma City",
+            "governor": "Kevin Stitt",
+            "senators":
+            [
+                "Jim Inhofe",
+                "James Lankford"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "capital": "Salem",
+            "governor": "Kate Brown",
+            "senators":
+            [
+                "Ron Wyden",
+                "Jeff Merkley"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Pennsylvania",
+            "capital": "Harrisburg",
+            "governor": "Tom Wolf",
+            "senators":
+            [
+                "Bob Casey Jr.",
+                "Pat Toomey"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Puerto Rico",
+            "capital": "San Juan",
+            "governor": "Pedro Pierluisi",
+            "senators":
+            [
+                "",
+                ""
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Rhode Island",
+            "capital": "Providence",
+            "governor": "Dan McKee",
+            "senators":
+            [
+                "Jack Reed",
+                "Sheldon Whitehouse"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "South Carolina",
+            "capital": "Columbia",
+            "governor": "Henry McMaster",
+            "senators":
+            [
+                "Lindsey Graham",
+                "Tim Scott"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "South Dakota",
+            "capital": "Pierre",
+            "governor": "Kristi Noem",
+            "senators":
+            [
+                "John Thune",
+                "Mike Rounds"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Tennessee",
+            "capital": "Nashville",
+            "governor": "Bill Lee",
+            "senators":
+            [
+                "Marsha Blackburn",
+                "Bill Hagerty"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Texas",
+            "capital": "Austin",
+            "governor": "Greg Abbott",
+            "senators":
+            [
+                "John Cornyn",
+                "Ted Cruz"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Utah",
+            "capital": "Salt Lake City",
+            "governor": "Spencer Cox",
+            "senators":
+            [
+                "Mike Lee",
+                "Mitt Romney"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "U.S. Virgin Islands",
+            "capital": "Charlotte Amalie",
+            "governor": "Albert Bryan",
+            "senators":
+            [
+                "",
+                ""
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Vermont",
+            "capital": "Montpelier",
+            "governor": "Phil Scott",
+            "senators":
+            [
+                "Patrick Leahy",
+                "Bernie Sanders"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Virginia",
+            "capital": "Richmond",
+            "governor": "Glenn Youngkin",
+            "senators":
+            [
+                "Mark Warner",
+                "Tim Kaine"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Washington",
+            "capital": "Olympia",
+            "governor": "Jay Inslee",
+            "senators":
+            [
+                "Patty Murray",
+                "Maria Cantwell"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "West Virginia",
+            "capital": "Charleston",
+            "governor": "Jim Justice",
+            "senators":
+            [
+                "Joe Manchin",
+                "Shelley Moore Capito"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Wisconsin",
+            "capital": "Madison",
+            "governor": "Tony Evers",
+            "senators":
+            [
+                "Ron Johnson",
+                "Tammy Baldwin"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        },
+        {
+            "name": "Wyoming",
+            "capital": "Cheyenne",
+            "governor": "Mark Gordon",
+            "senators":
+            [
+                "John Barrasso",
+                "Cynthia Lummis"
+            ],
+            "districts":
+            [
+                {
+                    "name": "District",
+                    "representative": ""
+                }
+            ]
+        }
+    ]
+}
