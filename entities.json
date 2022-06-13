@@ -34,7 +34,7 @@
         [
             "John G. Roberts, Jr"
         ],
-        "party": ""
+        "party": null
     },
     "areas":
     [
@@ -148,11 +148,7 @@
             "name": "Guam",
             "capital": "Hagåtña",
             "governor": "Lou Leon Guerrero",
-            "senators":
-            [
-                "",
-                ""
-            ]
+            "senators": []
         },
         {
             "name": "Hawaii",
@@ -398,11 +394,7 @@
             "name": "Northern Mariana Islands",
             "capital": "Saipan",
             "governor": "Ralph Torres",
-            "senators":
-            [
-                "",
-                ""
-            ]
+            "senators": []
         },
         {
             "name": "Ohio",
@@ -448,11 +440,7 @@
             "name": "Puerto Rico",
             "capital": "San Juan",
             "governor": "Pedro Pierluisi",
-            "senators":
-            [
-                "",
-                ""
-            ]
+            "senators": []
         },
         {
             "name": "Rhode Island",
@@ -518,11 +506,7 @@
             "name": "U.S. Virgin Islands",
             "capital": "Charlotte Amalie",
             "governor": "Albert Bryan",
-            "senators":
-            [
-                "",
-                ""
-            ]
+            "senators": []
         },
         {
             "name": "Vermont",
